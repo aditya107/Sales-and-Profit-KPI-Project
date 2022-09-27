@@ -1,4 +1,5 @@
 # Sales-and-Profit-KPI-Project
+![image](https://user-images.githubusercontent.com/28646386/192640464-03d7d762-c6d9-4d11-a2d9-7544b4bc5c31.png)
 
 Link to finished dashboard: https://public.tableau.com/app/profile/aditya.singh5439/viz/SalesandProfitKPIProject/Dashboard1
 
